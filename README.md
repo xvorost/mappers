@@ -6,4 +6,5 @@
 | SinMapper         | https://github.com/armvirus/SinMapper       |                                                           |
 | KdMapper          | https://github.com/TheCruZ/kdmapper         |                                                           |
 | CosMapper         | https://github.com/armvirus/CosMapper       |                                                           |
-| umap         | https://github.com/btbd/umap       |                                                           |
+| umap              | https://github.com/btbd/umap                |                                                           |
+| GhostMapper       | https://github.com/Oliver-1-1/GhostMapper   |                                                           |
